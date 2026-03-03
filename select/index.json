@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ショコラ・ティアラ",
+  "base_artist": "三村かな子 (CV: 大坪由佳)",
+  "createdAt": "2026-03-03T13:48:06.289161Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ショコラ・ティアラ (オリジナル・カラオケ)",
+      "artist": "三村かな子 (CV 大坪由佳)",
+      "has_synced": false,
+      "path": "select/01_ショコラ・ティアラ_(オリジナル・カラオケ)_三村かな子_(CV_大坪由佳).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ショコラ・ティアラ",
+      "artist": "三村かな子 (CV 大坪由佳)",
+      "has_synced": true,
+      "path": "select/02_ショコラ・ティアラ_三村かな子_(CV_大坪由佳).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ショコラ・ティアラ",
+      "artist": "三村かな子(CV.大坪由佳)",
+      "has_synced": true,
+      "path": "select/03_ショコラ・ティアラ_三村かな子(CV.大坪由佳).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ショコラ・ティアラ",
+      "artist": "大坪由佳",
+      "has_synced": true,
+      "path": "select/04_ショコラ・ティアラ_大坪由佳.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ショコラ・ティアラ",
+      "artist": "三村かな子",
+      "has_synced": true,
+      "path": "select/05_ショコラ・ティアラ_三村かな子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ショコラ・ティアラ (オリジナル・カラオケ)",
+      "artist": "三村かな子",
+      "has_synced": false,
+      "path": "select/06_ショコラ・ティアラ_(オリジナル・カラオケ)_三村かな子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ショコラ・ティアラ",
+      "artist": "三村かな子 (大坪由佳)",
+      "has_synced": false,
+      "path": "select/pl_01_ショコラ・ティアラ_三村かな子_(大坪由佳).txt"
+    }
+  ]
+}
